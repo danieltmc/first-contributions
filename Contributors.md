@@ -137,6 +137,7 @@
 - [Ciaran Ashton](https://github.com/CiaranAshton)
 - [Marouane Rassili](https://github.com/mrassili)
 - [Gabriel Takazaki](https://github.com/GabrielTakazaki)
+- [Daniel McCloskey](https://github.com/danieltmc)
 - [Joey Dunivan](https://github.com/JoeyDunivan)
 - [Toms Engelis](https://github.com/Angeltoms)
 - [Chongzhang Li](https://github.com/zhangolove/first-contributions)
